@@ -3,9 +3,7 @@ package com.zslin;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-/**
- * Created by 钟述林 393156105@qq.com on 2016/10/28 16:25.
- */
+
 @SpringBootApplication
 public class RootApplication {
 
